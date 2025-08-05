@@ -1,4 +1,4 @@
-import { IsNotEmpty, isNotEmpty, IsNumber, IsString } from "class-validator";
+import { IsNotEmpty, IsNumber, IsString } from "class-validator";
 
 export class createCoordinatesDTO {
 
